@@ -10,7 +10,8 @@
     "ContainerScreenMixin",
     "ContainerScreenPanelMixin",
     "PlayerMixin",
-    "TrashSlotComponentMixin"
+    "TrashSlotComponentMixin",
+    "KumaKeyModifierReconcilerMixin"
   ],
   "injectors": {
     "defaultRequire": 1
